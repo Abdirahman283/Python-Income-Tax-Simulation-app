@@ -25,7 +25,7 @@
 
 The following diagram illustrates the layered architecture of the application:
 
-![Tax Calculation UML Diagram](assets/UML-tax.png)
+![Tax Calculation UML Diagram](asset/UML-tax.png)
 
 ### 📦 Control Layer
 - `TaxCalculator`: Core logic for computing taxes using bracket data.
