@@ -92,13 +92,22 @@ taxSimpy/
 │
 └── view/
     └── TaxwiseUI.py
+```
+## 👨‍💻 Authors
 
-👨‍💻 Author
-Abdirahman Abdillahi, Chaouche Hanane, Kanfoud Kmar
-Academic project developed for the course Programming Language.
-Contact: [aagd47@gmail.com]
+**Abdirahman Abdillahi**  
+[LinkedIn](https://www.linkedin.com/in/abdirahmnabdillahi/)
 
-##📜 License
+**Chaouche Hanane**  
+[LinkedIn](https://www.linkedin.com/in/hanane-chaouche-05118a327/)
+
+**Kanfoud Kmar**  
+[LinkedIn](https://www.linkedin.com/in/kmar-kanfoud/)
+
+Academic project developed for the course *Programming Language*.  
+📧 Contact: [aagd47@gmail.com](mailto:aagd47@gmail.com)
+
+
+## 📜 License
+
 This project is for educational and non-commercial use only.
-
----
