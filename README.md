@@ -68,7 +68,7 @@ python main.py
 ## 📂 File Structure
 taxwise/
 │
-├── control/
+├── service/
 │   ├── TaxCalculator.py
 │   ├── CanadaRevenueService.py
 │   └── QuebecRevenueService.py
