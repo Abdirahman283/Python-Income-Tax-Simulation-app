@@ -65,8 +65,8 @@ The following diagram illustrates the layered architecture of the application:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/taxwise-simulation.git
-cd taxwise-simulation
+git clone https://github.com/Abdirahman283/Python-Income-Tax-Simulation-app.git
+cd Python-Income-Tax-Simulation-app
 
 # Run the main interface
 python main.py
