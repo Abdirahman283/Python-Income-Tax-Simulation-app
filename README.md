@@ -2,7 +2,7 @@
 
 ## 📚 Project Overview
 
-**TaxWise** is a Python-based simulation project developed as part of an academic semester-end assignment. The application models the calculation of personal income taxes based on different tax authorities (e.g., Canada, Quebec) using tax brackets and rates. It follows a multi-layered architecture with clear separation of concerns (MVC + DAO patterns).
+**TaxSimpy** is a Python-based simulation project developed as part of an academic semester-end assignment. The application models the calculation of personal income taxes based on different tax authorities (e.g., Canada, Quebec) using tax brackets and rates. It follows a multi-layered architecture with clear separation of concerns (MVC + DAO patterns).
 
 ---
 
@@ -69,9 +69,10 @@ git clone https://github.com/Abdirahman283/Python-Income-Tax-Simulation-app.git
 cd Python-Income-Tax-Simulation-app
 
 # Run the main interface
-python main.py
+python View/TaxwiseUI.py
+
 ## 📂 File Structure
-taxwise/
+taxSimpy/
 │
 ├── service/
 │   ├── TaxCalculator.py
@@ -89,10 +90,9 @@ taxwise/
 │   ├── TaxBracket.py
 │   └── TaxAuthority.py
 │
-├── view/
-│   └── TaxwiseUI.py
-│
-└── main.py
+└── view/
+    └── TaxwiseUI.py
+
 👨‍💻 Author
 Abdirahman Abdillahi, Chaouche Hanane, Kanfoud Kmar
 Academic project developed for the course Programming Language.
