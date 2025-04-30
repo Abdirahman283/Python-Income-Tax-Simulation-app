@@ -1,4 +1,4 @@
-# 🧾 TaxWise – Income Tax Calculation Simulation (Python)
+# 🧾 TaxSimpy – Income Tax Calculation Simulation (Python)
 
 ## 📚 Project Overview
 
